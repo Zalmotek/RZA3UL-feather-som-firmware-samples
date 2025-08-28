@@ -1,0 +1,1830 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+                              ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+                              ./src/hal_entry.o (memcpy)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+                              ./src/hal_entry.o (memset)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o) (_impure_ptr)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o) (__sf)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o) (__sread)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o) (_close_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o) (errno)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o) (_lseek_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o) (_read_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o) (_write_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o) (_free_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o) (_malloc_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o) (__malloc_lock)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o) (_fclose_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o) (__sflush_r)
+C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+                              C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o) (_sbrk_r)
+
+Merging program properties
+
+Removed property 0xc0000000 to merge C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o) (0x3) and ./src/hal_entry.o (not found)
+Removed property 0xc0000000 to merge C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o) (not found) and C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o) (0x3)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./src/hal_entry.o
+ .data          0x0000000000000000        0x0 ./src/hal_entry.o
+ .bss           0x0000000000000000        0x0 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9uart_readEPhPt
+                0x0000000000000000       0x98 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9fill_buffEv
+                0x0000000000000000       0xd0 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9availableEv
+                0x0000000000000000       0x24 ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer4readEv.str1.8
+                0x0000000000000000       0x29 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer4readEv
+                0x0000000000000000       0x90 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer4peekEv
+                0x0000000000000000       0x28 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5writeEh
+                0x0000000000000000       0x20 ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer10uart_closeEv.str1.8
+                0x0000000000000000       0x2c ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer10uart_closeEv
+                0x0000000000000000       0x60 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5printEPh
+                0x0000000000000000       0x2c ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer5printEx.str1.8
+                0x0000000000000000        0xa ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5printEx
+                0x0000000000000000       0xd8 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer7printlnEx
+                0x0000000000000000       0x40 ./src/hal_entry.o
+ .bss.g_dest_0  0x0000000000000000      0x200 ./src/hal_entry.o
+ .eh_frame      0x0000000000000000      0x2c0 ./src/hal_entry.o
+ .text          0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .data          0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .bss           0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .text.R_MMU_VAtoPA
+                0x0000000000000000       0x58 ./src/mmu_page_table.o
+ .text.R_MMU_PAtoVA
+                0x0000000000000000       0x54 ./src/mmu_page_table.o
+ .text          0x0000000000000000        0x0 ./src/sections.o
+ .data          0x0000000000000000        0x0 ./src/sections.o
+ .bss           0x0000000000000000        0x0 ./src/sections.o
+ .text          0x0000000000000000        0x0 ./src/syscalls.o
+ .data          0x0000000000000000        0x0 ./src/syscalls.o
+ .bss           0x0000000000000000        0x0 ./src/syscalls.o
+ .text._write   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._read    0x0000000000000000        0x8 ./src/syscalls.o
+ .text._close   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._fstat   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._lseek   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._isatty  0x0000000000000000        0x8 ./src/syscalls.o
+ .debug_info    0x0000000000000000      0x20f ./src/syscalls.o
+ .debug_abbrev  0x0000000000000000       0xa8 ./src/syscalls.o
+ .debug_loclists
+                0x0000000000000000       0xae ./src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0x80 ./src/syscalls.o
+ .debug_rnglists
+                0x0000000000000000       0x49 ./src/syscalls.o
+ .debug_line    0x0000000000000000       0xfa ./src/syscalls.o
+ .debug_str     0x0000000000000000      0x198 ./src/syscalls.o
+ .debug_line_str
+                0x0000000000000000       0xcd ./src/syscalls.o
+ .comment       0x0000000000000000       0x45 ./src/syscalls.o
+ .debug_frame   0x0000000000000000       0xa0 ./src/syscalls.o
+ .text          0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .text.g_common_init
+                0x0000000000000000        0x4 ./rza_gen/common_data.o
+ .rodata.g_ioport
+                0x0000000000000000       0x18 ./rza_gen/common_data.o
+ .rodata.g_mmu  0x0000000000000000       0x18 ./rza_gen/common_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .text.g_hal_init
+                0x0000000000000000       0x14 ./rza_gen/hal_data.o
+ .rodata.g_uart0
+                0x0000000000000000       0x18 ./rza_gen/hal_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/main.o
+ .data          0x0000000000000000        0x0 ./rza_gen/main.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/main.o
+ .text          0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Read
+                0x0000000000000000       0x10 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_CallbackSet
+                0x0000000000000000       0x14 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_InfoGet
+                0x0000000000000000       0x14 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Abort
+                0x0000000000000000       0xec ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_ReadStop
+                0x0000000000000000       0xa0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Close
+                0x0000000000000000      0x104 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .rodata.g_uart_on_scif
+                0x0000000000000000       0x48 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_Close
+                0x0000000000000000        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_AllocateTable
+                0x0000000000000000        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .rodata.g_mmu_on_mmu
+                0x0000000000000000       0x30 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Close
+                0x0000000000000000        0xc ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinRead
+                0x0000000000000000       0x28 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortRead
+                0x0000000000000000       0x20 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventInputRead
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventInputRead
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventOutputWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventOutputWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortWrite
+                0x0000000000000000       0x34 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinWrite
+                0x0000000000000000       0x3c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortDirectionSet
+                0x0000000000000000       0x38 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinsCfg
+                0x0000000000000000       0x1c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinCfg
+                0x0000000000000000       0x38 ./rza/fsp/src/r_ioport/r_ioport.o
+ .rodata.g_ioport_on_ioport
+                0x0000000000000000       0x68 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_selector_set
+                0x0000000000000000      0x3a8 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_divider_set
+                0x0000000000000000      0x250 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_FSP_SystemClockHzSet
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.bsp_init_internal
+                0x0000000000000000        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .version       0x0000000000000000       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_Disable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiRoute
+                0x0000000000000000       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiSense
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_SetSpiPending
+                0x0000000000000000       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiPending
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SgiPpiEnable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SgiPpiDisable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_GetSgiPpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiPending
+                0x0000000000000000       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_GetSgiPpiPending
+                0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiSecurity
+                0x0000000000000000       0x60 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text.R_BSP_GroupIrqWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_info    0x0000000000000000      0x7c3 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_abbrev  0x0000000000000000       0xd4 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_loclists
+                0x0000000000000000       0x27 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_rnglists
+                0x0000000000000000       0x17 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line    0x0000000000000000       0x6b ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_str     0x0000000000000000     0x1a3f ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line_str
+                0x0000000000000000      0x1db ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .comment       0x0000000000000000       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_frame   0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_info    0x0000000000000000       0x6c ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line    0x0000000000000000       0x35 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_str     0x0000000000000000      0x15d ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line_str
+                0x0000000000000000       0xec ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .comment       0x0000000000000000       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_info    0x0000000000000000       0x6c ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_line    0x0000000000000000       0x35 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_str     0x0000000000000000      0x15d ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_line_str
+                0x0000000000000000       0xfc ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .comment       0x0000000000000000       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text._sbrk    0x0000000000000000       0xa0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss.current_heap_end.0
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x0000000000000000      0x148 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x0000000000000000       0xce ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loclists
+                0x0000000000000000       0xab ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_rnglists
+                0x0000000000000000       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x0000000000000000       0xd3 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_str     0x0000000000000000      0x1e8 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line_str
+                0x0000000000000000      0x1e6 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x0000000000000000       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x0000000000000000       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_info    0x0000000000000000       0x6c ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line    0x0000000000000000       0x35 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_str     0x0000000000000000      0x15d ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line_str
+                0x0000000000000000       0xf2 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .comment       0x0000000000000000       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_irq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__enable_irq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_fiq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_all_exception
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x0000000000000000        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .text          0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_init.o
+ .data          0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_init.o
+ .bss           0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_init.o
+ .text          0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_leds.o
+ .data          0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_leds.o
+ .bss           0x0000000000000000        0x0 ./rza/board/rza3ul_feather/board_leds.o
+ .rodata.g_bsp_leds
+                0x0000000000000000       0x10 ./rza/board/rza3ul_feather/board_leds.o
+ .rodata.g_bsp_prv_leds
+                0x0000000000000000        0x2 ./rza/board/rza3ul_feather/board_leds.o
+ .debug_info    0x0000000000000000      0x4c3 ./rza/board/rza3ul_feather/board_leds.o
+ .debug_abbrev  0x0000000000000000       0xcf ./rza/board/rza3ul_feather/board_leds.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/board/rza3ul_feather/board_leds.o
+ .debug_line    0x0000000000000000       0x5e ./rza/board/rza3ul_feather/board_leds.o
+ .debug_str     0x0000000000000000      0xb7a ./rza/board/rza3ul_feather/board_leds.o
+ .debug_line_str
+                0x0000000000000000      0x2b7 ./rza/board/rza3ul_feather/board_leds.o
+ .comment       0x0000000000000000       0x45 ./rza/board/rza3ul_feather/board_leds.o
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_info    0x0000000000000000      0x725 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_abbrev  0x0000000000000000      0x19a C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_line    0x0000000000000000       0x7a C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_str     0x0000000000000000      0x41a C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_line_str
+                0x0000000000000000      0x282 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .debug_frame   0x0000000000000000       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-errno.o)
+ .text          0x0000000000000000      0x22c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .note.gnu.property
+                0x0000000000000000       0x20 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_line    0x0000000000000000       0xd3 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_line_str
+                0x0000000000000000       0xd6 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_info    0x0000000000000000       0x3b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_abbrev  0x0000000000000000       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .debug_str     0x0000000000000000       0xeb C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .eh_frame      0x0000000000000000       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memcpy.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+ .note.gnu.property
+                0x0000000000000000       0x20 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+ .eh_frame      0x0000000000000000       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .data._impure_data
+                0x0000000000000000      0x158 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_info    0x0000000000000000      0x73b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x185 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_line    0x0000000000000000       0x51 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_str     0x0000000000000000      0x424 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .debug_line_str
+                0x0000000000000000      0x274 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-impure.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x0000000000000000       0x1c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x0000000000000000       0x74 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x34 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x34 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x0000000000000000      0x158 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__sfp    0x0000000000000000      0x144 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__sinit  0x0000000000000000       0x64 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0xc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0xc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .data.__sglue  0x0000000000000000       0x18 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .bss.__sf      0x0000000000000000      0x228 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_info    0x0000000000000000     0x128d C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_abbrev  0x0000000000000000      0x484 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_loclists
+                0x0000000000000000      0x2c5 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_aranges
+                0x0000000000000000       0xd0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_rnglists
+                0x0000000000000000      0x14b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_line    0x0000000000000000      0x642 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_str     0x0000000000000000      0x6a7 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_line_str
+                0x0000000000000000      0x2f4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .debug_frame   0x0000000000000000      0x1d8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-findfp.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x0000000000000000       0xa0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_info    0x0000000000000000      0x7fe C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_abbrev  0x0000000000000000      0x1d9 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_loclists
+                0x0000000000000000       0xc9 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_rnglists
+                0x0000000000000000       0x18 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_line    0x0000000000000000       0xf1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_str     0x0000000000000000      0x430 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_line_str
+                0x0000000000000000      0x2d7 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .debug_frame   0x0000000000000000       0x50 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fwalk.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text.__sread  0x0000000000000000       0x50 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text.__swrite
+                0x0000000000000000       0x6c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text.__sseek  0x0000000000000000       0x50 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text.__sclose
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_info    0x0000000000000000      0xabc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_abbrev  0x0000000000000000      0x24e C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_loclists
+                0x0000000000000000      0x303 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_aranges
+                0x0000000000000000       0x70 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_rnglists
+                0x0000000000000000       0x3f C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_line    0x0000000000000000      0x1c1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_str     0x0000000000000000      0x48d C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_line_str
+                0x0000000000000000      0x36d C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .debug_frame   0x0000000000000000       0xe8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-stdio.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .text._close_r
+                0x0000000000000000       0x4c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_info    0x0000000000000000      0x784 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_abbrev  0x0000000000000000      0x1ec C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_loclists
+                0x0000000000000000       0x69 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_line    0x0000000000000000       0xbd C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_str     0x0000000000000000      0x415 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_line_str
+                0x0000000000000000      0x2e3 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .debug_frame   0x0000000000000000       0x48 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-closer.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .bss.errno     0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_info    0x0000000000000000      0x82b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_abbrev  0x0000000000000000      0x230 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_loclists
+                0x0000000000000000       0xa5 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_rnglists
+                0x0000000000000000       0x18 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_line    0x0000000000000000      0x10e C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_str     0x0000000000000000      0x43f C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_line_str
+                0x0000000000000000      0x2d8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .debug_frame   0x0000000000000000       0x50 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-reent.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x0000000000000000       0x54 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_info    0x0000000000000000      0x7c4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_abbrev  0x0000000000000000      0x200 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_loclists
+                0x0000000000000000       0xad C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_line    0x0000000000000000       0xbf C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_str     0x0000000000000000      0x423 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_line_str
+                0x0000000000000000      0x2e3 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .debug_frame   0x0000000000000000       0x48 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lseekr.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .text._read_r  0x0000000000000000       0x60 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_info    0x0000000000000000      0x7db C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_abbrev  0x0000000000000000      0x1ec C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_loclists
+                0x0000000000000000       0xad C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_line    0x0000000000000000       0xd1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_str     0x0000000000000000      0x424 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_line_str
+                0x0000000000000000      0x36e C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .debug_frame   0x0000000000000000       0x48 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-readr.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .text._write_r
+                0x0000000000000000       0x60 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_info    0x0000000000000000      0x7e1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_abbrev  0x0000000000000000      0x1f1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_loclists
+                0x0000000000000000       0xad C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_line    0x0000000000000000       0xd1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_str     0x0000000000000000      0x425 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_line_str
+                0x0000000000000000      0x371 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .debug_frame   0x0000000000000000       0x48 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-writer.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_info    0x0000000000000000      0x23e C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_abbrev  0x0000000000000000      0x115 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_loclists
+                0x0000000000000000       0x27 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_aranges
+                0x0000000000000000       0xc0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_rnglists
+                0x0000000000000000       0x71 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_line    0x0000000000000000      0x130 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_str     0x0000000000000000      0x285 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_line_str
+                0x0000000000000000      0x1f9 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .debug_frame   0x0000000000000000      0x100 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-lock.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000000000      0x118 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .text._free_r  0x0000000000000000      0x2e0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_info    0x0000000000000000      0xb61 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_abbrev  0x0000000000000000      0x290 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_loclists
+                0x0000000000000000      0x47a C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_aranges
+                0x0000000000000000       0x40 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_rnglists
+                0x0000000000000000       0x23 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_line    0x0000000000000000      0x48f C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_str     0x0000000000000000      0x587 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_line_str
+                0x0000000000000000      0x2dc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .debug_frame   0x0000000000000000       0xa0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-freer.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x7f4 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000000000000       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x0000000000000000        0x8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000000000000      0x810 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .rodata.cst16  0x0000000000000000       0x10 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_info    0x0000000000000000      0xd11 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_abbrev  0x0000000000000000      0x2d7 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_loclists
+                0x0000000000000000      0xb3b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_rnglists
+                0x0000000000000000       0x49 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_line    0x0000000000000000      0x824 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_str     0x0000000000000000      0x63d C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_line_str
+                0x0000000000000000      0x2e0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .debug_frame   0x0000000000000000       0xf8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mallocr.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_info    0x0000000000000000      0x7a5 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_abbrev  0x0000000000000000      0x1fb C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_loclists
+                0x0000000000000000       0x42 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_aranges
+                0x0000000000000000       0x40 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_rnglists
+                0x0000000000000000       0x21 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_line    0x0000000000000000       0x93 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_str     0x0000000000000000      0x4a1 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_line_str
+                0x0000000000000000      0x2da C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x40 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-mlock.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x0000000000000000      0x13c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .text.fclose   0x0000000000000000       0x10 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_info    0x0000000000000000      0x92d C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_abbrev  0x0000000000000000      0x2a2 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_loclists
+                0x0000000000000000      0x167 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_aranges
+                0x0000000000000000       0x40 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_rnglists
+                0x0000000000000000       0x34 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_line    0x0000000000000000      0x1c9 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_str     0x0000000000000000      0x4e2 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_line_str
+                0x0000000000000000      0x2eb C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .debug_frame   0x0000000000000000       0x78 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fclose.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000000000      0x200 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x0000000000000000       0xb8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .text.fflush   0x0000000000000000       0xb8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_info    0x0000000000000000      0xb2c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_abbrev  0x0000000000000000      0x317 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_loclists
+                0x0000000000000000      0x323 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_aranges
+                0x0000000000000000       0x50 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_rnglists
+                0x0000000000000000       0xa9 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_line    0x0000000000000000      0x3e0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_str     0x0000000000000000      0x4ea C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_line_str
+                0x0000000000000000      0x2eb C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .debug_frame   0x0000000000000000       0xd8 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-fflush.o)
+ .text          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x4c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_info    0x0000000000000000      0x7aa C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_abbrev  0x0000000000000000      0x216 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_loclists
+                0x0000000000000000       0x69 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000000       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_rnglists
+                0x0000000000000000       0x17 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_line    0x0000000000000000       0xbe C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_str     0x0000000000000000      0x429 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_line_str
+                0x0000000000000000      0x2e0 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .comment       0x0000000000000000       0x45 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x48 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-sbrkr.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM_MMU         0x000000000001e000 0x0000000000005000 rw
+SRAM             0x0000000000023000 0x000000000000d000 xrw
+HEADER_REGION    0x0000000020020000 0x0000000000000200 xr
+ENTRY_S          0x0000000020020200 0x0000000000000e00 xr
+CODE_S           0x0000000020021000 0x00000000001ff000 xr
+CACHED_RAM_S     0x00000000281fffc0 0x0000000007e00040 xrw
+UNCACHED_RAM_S   0x0000000038000000 0x0000000008000000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/hal_entry.o
+LOAD ./src/mmu_page_table.o
+LOAD ./src/sections.o
+LOAD ./src/syscalls.o
+LOAD ./rza_gen/common_data.o
+LOAD ./rza_gen/hal_data.o
+LOAD ./rza_gen/main.o
+LOAD ./rza_gen/pin_data.o
+LOAD ./rza_gen/vector_data.o
+LOAD ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+LOAD ./rza/fsp/src/r_mmu/r_mmu.o
+LOAD ./rza/fsp/src/r_ioport/r_ioport.o
+LOAD ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+LOAD ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+LOAD ./rza/board/rza3ul_feather/board_init.o
+LOAD ./rza/board/rza3ul_feather/board_leds.o
+START GROUP
+END GROUP
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libstdc++.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libm.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libgcc.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libc.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libgcc.a
+                0x0000000000010000                SRAM_START = 0x10000
+                0x0000000000020000                SRAM_LENGTH = 0x20000
+                0x0000000020000000                FLASH_START = 0x20000000
+                0x0000000010000000                FLASH_LENGTH = 0x10000000
+                0x0000000040000040                DDR_START = 0x40000040
+                0x000000003fffffc0                DDR_LENGTH = 0x3fffffc0
+                0x0000000020000000                OCTA_FLASH_START = 0x20000000
+                0x0000000008000000                OCTA_FLASH_LENGTH = 0x8000000
+                0x0000000028000000                OCTA_RAM_START = 0x28000000
+                0x0000000008000000                OCTA_RAM_LENGTH = 0x8000000
+                0x000000000000e000                SRAM_RESERVED_LENGTH = 0xe000
+                0x000000000001e000                SRAM_MMU_START = (SRAM_START + SRAM_RESERVED_LENGTH)
+                0x0000000000005000                SRAM_MMU_LENGTH = 0x5000
+                0x0000000000023000                SRAM_CODE_START = (SRAM_MMU_START + SRAM_MMU_LENGTH)
+                0x000000000000d000                SRAM_CODE_LENGTH = ((SRAM_START + SRAM_LENGTH) - SRAM_CODE_START)
+                0x0000000000020000                FLASH_IPL_LENGTH = 0x20000
+                0x0000000020020000                FSP_HEADER_START = (OCTA_FLASH_START + FLASH_IPL_LENGTH)
+                0x0000000000000200                FSP_HEADER_LENGTH = 0x200
+                0x0000000020020200                ENTRY_S_START = (FSP_HEADER_START + FSP_HEADER_LENGTH)
+                0x0000000000000e00                ENTRY_S_LENGTH = 0xe00
+                0x0000000020021000                CODE_S_START = (ENTRY_S_START + ENTRY_S_LENGTH)
+                0x00000000001ff000                CODE_S_LENGTH = 0x1ff000
+                0x00000000001fffc0                FSP_RAM_OFFSET = 0x1fffc0
+                0x00000000281fffc0                CACHEDRAM_S_START = (OCTA_RAM_START + FSP_RAM_OFFSET)
+                0x0000000007e00040                CACHEDRAM_S_LENGTH = (OCTA_RAM_LENGTH - (CACHEDRAM_S_START - OCTA_RAM_START))
+                0x0000000010000000                UNCACHED_OFFSET = 0x10000000
+                0x0000000038000000                UNCACHEDRAM_S_START = (UNCACHED_OFFSET + OCTA_RAM_START)
+                0x0000000008000000                UNCACHEDRAM_S_LENGTH = OCTA_RAM_LENGTH
+
+.data.sram_mmu  0x000000000001e000     0x5000
+                0x000000000001e000                __ttbr0_base = .
+                0x000000000001e020                . = (. + 0x20)
+ *fill*         0x000000000001e000       0x20 
+                0x000000000001f000                . = ALIGN (0x1000)
+ *fill*         0x000000000001e020      0xfe0 
+                0x000000000001f000                __level2_table_1_base = .
+                0x0000000000020000                . = (. + 0x1000)
+ *fill*         0x000000000001f000     0x1000 
+                0x0000000000020000                __level2_table_2_base = .
+                0x0000000000021000                . = (. + 0x1000)
+ *fill*         0x0000000000020000     0x1000 
+                0x0000000000021000                __level2_table_3_base = .
+                0x0000000000022000                . = (. + 0x1000)
+ *fill*         0x0000000000021000     0x1000 
+                0x0000000000022000                __level2_table_4_base = .
+                0x0000000000023000                . = (. + 0x1000)
+ *fill*         0x0000000000022000     0x1000 
+
+.text.sram      0x0000000000023000      0x9d0 load address 0x0000000020021000
+                0x0000000000023000                __sram_exec_start = .
+                0x0000000020021000                __sram_load_start = (LOADADDR (.text.sram) + (. - ADDR (.text.sram)))
+ *(VECTOR_TABLE)
+ VECTOR_TABLE   0x0000000000023000      0x800 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+                0x0000000000023000                vector_table
+ *(VECTOR_TABLE_FREERTOS)
+                0x0000000000023800                . = ALIGN (0x8)
+ *(IRQ_FIQ_HANDLER)
+ IRQ_FIQ_HANDLER
+                0x0000000000023800       0xf4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+                0x0000000000023800                fiq_handler
+                0x0000000000023890                irq_handler
+ *(FASTCODE)
+ *fill*         0x00000000000238f4        0x4 
+ FASTCODE       0x00000000000238f8       0x90 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x00000000000238f8                R_BSP_SoftwareDelay
+ FASTCODE.stub  0x0000000000023988       0x28 linker stubs
+ FASTCODE       0x00000000000239c0       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+                0x00000000000239c0                bsp_prv_software_delay_loop
+                0x00000000000239d0                . = ALIGN (0x8)
+                0x00000000200219d0                __sram_load_end = (LOADADDR (.text.sram) + (. - ADDR (.text.sram)))
+
+.rodata.header  0x0000000020020000      0x200
+                0x0000000020020000        0x8 QUAD 0x20020800 Start
+                0x0000000020020008        0x8 QUAD 0xffffffffdffdf7ff (0xffffffffffffffff - Start)
+                0x0000000020020010        0x8 QUAD 0x20020200
+                0x0000000020020018        0x8 QUAD 0xffffffffdffdfdff
+                0x0000000020020020        0x8 QUAD 0x0
+                0x0000000020020028        0x8 QUAD 0xffffffffffffffff
+ FILL mask 0x00
+                0x00000000200201e0                . = (. + 0x1b0)
+ *fill*         0x0000000020020030      0x1b0 00
+                0x00000000200201e0        0x8 QUAD 0x4120505346205a52
+                0x00000000200201e8        0x8 QUAD 0x69746163696c7070
+                0x00000000200201f0        0x8 QUAD 0x6e6f
+                0x00000000200201f8        0x8 QUAD 0x0
+
+.text.secure_program_entry
+                0x0000000020020800        0x4
+                0x0000000020020800                _prog_start = .
+ *(PROGRAM_ENTRY)
+ PROGRAM_ENTRY  0x0000000020020800        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+                0x0000000020020800                Start
+
+.text           0x0000000020021a00     0x3aa8
+ *(RESET_HANDLER)
+ RESET_HANDLER  0x0000000020021a00      0x10c ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x0000000020021a00                reset_handler
+                0x0000000020021b80                . = ALIGN (0x80)
+ *fill*         0x0000000020021b0c       0x74 
+ *(INIT_SECTION)
+ INIT_SECTION   0x0000000020021b80      0x210 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+                0x0000000020021b80                INITSCT
+ */sections.o(.rodata .rodata.*)
+ .rodata.BTBL_F
+                0x0000000020021d90       0x10 ./src/sections.o
+                0x0000000020021d90                BTBL_F
+ .rodata.DTBL_F
+                0x0000000020021da0       0x18 ./src/sections.o
+                0x0000000020021da0                DTBL_F
+ .rodata.BTBL   0x0000000020021db8       0x40 ./src/sections.o
+                0x0000000020021db8                BTBL
+ .rodata.DTBL   0x0000000020021df8       0x48 ./src/sections.o
+                0x0000000020021df8                DTBL
+                0x0000000020021e40                . = ALIGN (0x8)
+ *(.text .text.*)
+ .text.uart_callback_0
+                0x0000000020021e40      0x118 ./src/hal_entry.o
+                0x0000000020021e40                uart_callback_0
+ .text._ZN24SerialCompatibilityLayerC2Ev
+                0x0000000020021f58       0x34 ./src/hal_entry.o
+                0x0000000020021f58                SerialCompatibilityLayer::SerialCompatibilityLayer()
+                0x0000000020021f58                SerialCompatibilityLayer::SerialCompatibilityLayer()
+ *fill*         0x0000000020021f8c        0x4 
+ .text._Z41__static_initialization_and_destruction_0v
+                0x0000000020021f90       0x28 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer10uart_printEPht
+                0x0000000020021fb8       0x98 ./src/hal_entry.o
+                0x0000000020021fb8                SerialCompatibilityLayer::uart_print(unsigned char*, unsigned short)
+ .text._ZN24SerialCompatibilityLayer9uart_initEPj
+                0x0000000020022050       0xd8 ./src/hal_entry.o
+                0x0000000020022050                SerialCompatibilityLayer::uart_init(unsigned int*)
+ .text._ZN24SerialCompatibilityLayer5beginEj
+                0x0000000020022128       0x1c ./src/hal_entry.o
+                0x0000000020022128                SerialCompatibilityLayer::begin(unsigned int)
+ *fill*         0x0000000020022144        0x4 
+ .text._ZN24SerialCompatibilityLayer7printlnEPh
+                0x0000000020022148       0x58 ./src/hal_entry.o
+                0x0000000020022148                SerialCompatibilityLayer::println(unsigned char*)
+ .text.hal_entry
+                0x00000000200221a0      0x1c0 ./src/hal_entry.o
+                0x00000000200221a0                hal_entry
+ .text.R_BSP_WarmStart
+                0x0000000020022360       0x78 ./src/hal_entry.o
+                0x0000000020022360                R_BSP_WarmStart
+ .text._GLOBAL__sub_I_g_dest_0
+                0x00000000200223d8       0x14 ./src/hal_entry.o
+ .text.main     0x00000000200223ec       0x18 ./rza_gen/main.o
+                0x00000000200223ec                main
+ .text.R_SCIF_UART_Write
+                0x0000000020022404       0x40 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022404                R_SCIF_UART_Write
+ .text.r_scif_uart_make_rtrg
+                0x0000000020022444       0x38 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *fill*         0x000000002002247c        0x4 
+ .text.r_scif_uart_make_rftc
+                0x0000000020022480       0xb0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_make_rstrg
+                0x0000000020022530       0x84 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_fifo_cfg
+                0x00000000200225b4       0x94 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_baud_set
+                0x0000000020022648       0x74 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_config_set
+                0x00000000200226bc       0xf4 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_BaudSet
+                0x00000000200227b0       0x50 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x00000000200227b0                R_SCIF_UART_BaudSet
+ .text.r_scif_uart_call_callback
+                0x0000000020022800       0x78 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.scif_uart_receive_sub
+                0x0000000020022878       0xd4 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *fill*         0x000000002002294c        0x4 
+ .text.R_BSP_IrqCfg
+                0x0000000020022950       0xa8 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_irq_cfg
+                0x00000000200229f8       0x44 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_irqs_cfg
+                0x0000000020022a3c       0x7c ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_BSP_IrqClearPending
+                0x0000000020022ab8       0x24 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Open
+                0x0000000020022adc      0x288 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022adc                R_SCIF_UART_Open
+ *fill*         0x0000000020022d64        0x4 
+ .text.R_SCIF_UART_BaudCalculate
+                0x0000000020022d68      0x210 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022d68                R_SCIF_UART_BaudCalculate
+ .text.scif_uart_txi_isr
+                0x0000000020022f78      0x100 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022f78                scif_uart_txi_isr
+ .text.scif_uart_rxi_isr
+                0x0000000020023078       0x50 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023078                scif_uart_rxi_isr
+ .text.scif_uart_tei_isr
+                0x00000000200230c8       0xa0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x00000000200230c8                scif_uart_tei_isr
+ .text.scif_uart_eri_isr
+                0x0000000020023168       0x38 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023168                scif_uart_eri_isr
+ .text.scif_uart_bri_isr
+                0x00000000200231a0       0x88 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x00000000200231a0                scif_uart_bri_isr
+ .text.R_MMU_WriteTable
+                0x0000000020023228       0xac ./rza/fsp/src/r_mmu/r_mmu.o
+                0x0000000020023228                R_MMU_WriteTable
+ .text.mmu_table_write_64
+                0x00000000200232d4        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_WriteTableLink
+                0x00000000200232dc       0x54 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x00000000200232dc                R_MMU_WriteTableLink
+ .text.R_MMU_WriteTableFault
+                0x0000000020023330       0x98 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x0000000020023330                R_MMU_WriteTableFault
+ .text.R_MMU_Open
+                0x00000000200233c8      0x1d8 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x00000000200233c8                R_MMU_Open
+ .text.r_ioport_make_port_pin_num
+                0x00000000200235a0       0x10 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_8
+                0x00000000200235b0       0x38 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_16
+                0x00000000200235e8       0x3c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_32
+                0x0000000020023624       0x20 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_dedicated_port_cfg
+                0x0000000020023644      0x110 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_peri_mode_pin_config
+                0x0000000020023754      0x17c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_port_mode_pin_config
+                0x00000000200238d0      0x1d4 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_pfs_write
+                0x0000000020023aa4       0x34 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_BSP_PinAccessEnable
+                0x0000000020023ad8       0x70 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_BSP_PinAccessDisable
+                0x0000000020023b48       0x80 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_pins_config
+                0x0000000020023bc8       0x58 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Open
+                0x0000000020023c20       0x30 ./rza/fsp/src/r_ioport/r_ioport.o
+                0x0000000020023c20                R_IOPORT_Open
+ .text.bsp_clock_off
+                0x0000000020023c50      0x5c4 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+                0x0000000020023c50                bsp_clock_off
+ *fill*         0x0000000020024214        0x4 
+ .text.SystemCoreClockUpdate
+                0x0000000020024218       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024218                SystemCoreClockUpdate
+ .text.bsp_clock_freq_var_init
+                0x0000000020024248       0xc8 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024248                bsp_clock_freq_var_init
+ .text.bsp_clock_init
+                0x0000000020024310      0x134 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024310                bsp_clock_init
+ *fill*         0x0000000020024444        0x4 
+ .text.R_FSP_SystemClockHzGet
+                0x0000000020024448       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024448                R_FSP_SystemClockHzGet
+ .text.__assert_func
+                0x0000000020024460        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+                0x0000000020024460                __assert_func
+ .text.r_bsp_gic_io_regwrite_32
+                0x0000000020024468       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.r_bsp_gic_io_regread_32
+                0x0000000020024488       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_SetCtlr
+                0x00000000200244a0       0x24 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200244a0                R_BSP_GICD_SetCtlr
+ .text.R_BSP_GICD_GetCtlr
+                0x00000000200244c4       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200244c4                R_BSP_GICD_GetCtlr
+ .text.R_BSP_GICD_Enable
+                0x00000000200244e4       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200244e4                R_BSP_GICD_Enable
+ .text.R_BSP_GICD_AffinityRouteEnable
+                0x0000000020024510       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024510                R_BSP_GICD_AffinityRouteEnable
+ .text.R_BSP_GICD_SpiEnable
+                0x0000000020024528       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024528                R_BSP_GICD_SpiEnable
+ .text.R_BSP_GICD_SpiDisable
+                0x0000000020024544       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024544                R_BSP_GICD_SpiDisable
+ .text.R_BSP_GICD_SetSpiPriority
+                0x0000000020024560       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024560                R_BSP_GICD_SetSpiPriority
+ .text.R_BSP_GICD_SetSpiRoute
+                0x0000000020024590       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024590                R_BSP_GICD_SetSpiRoute
+ .text.R_BSP_GICD_SetSpiSense
+                0x00000000200245c8       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200245c8                R_BSP_GICD_SetSpiSense
+ .text.R_BSP_GICD_ClearSpiPending
+                0x00000000200245f8       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200245f8                R_BSP_GICD_ClearSpiPending
+ .text.R_BSP_GICD_SetSpiSecurity
+                0x0000000020024614       0x74 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024614                R_BSP_GICD_SetSpiSecurity
+ .text.R_BSP_GICD_SetSpiSecurityLine
+                0x0000000020024688       0x5c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024688                R_BSP_GICD_SetSpiSecurityLine
+ .text.R_BSP_GICD_SetSpiSecurityAll
+                0x00000000200246e4       0x5c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200246e4                R_BSP_GICD_SetSpiSecurityAll
+ .text.R_BSP_GICD_SetSpiClass
+                0x0000000020024740       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024740                R_BSP_GICD_SetSpiClass
+ .text.R_BSP_GICR_Enable
+                0x0000000020024790       0x60 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024790                R_BSP_GICR_Enable
+ .text.R_BSP_GICR_ClearSgiPpiPending
+                0x00000000200247f0       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200247f0                R_BSP_GICR_ClearSgiPpiPending
+ .text.R_BSP_GICR_SetSgiPpiSecurityLine
+                0x0000000020024808       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024808                R_BSP_GICR_SetSgiPpiSecurityLine
+ .text.R_BSP_GICR_SetClass
+                0x0000000020024854       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024854                R_BSP_GICR_SetClass
+ .text.R_BSP_GICR_GetRoute
+                0x000000002002487c       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002487c                R_BSP_GICR_GetRoute
+ .text.R_BSP_GICC_SetMaskLevel
+                0x000000002002488c       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002488c                R_BSP_GICC_SetMaskLevel
+ .text.R_BSP_GICC_GetMaskLevel
+                0x000000002002489c       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002489c                R_BSP_GICC_GetMaskLevel
+ .text.R_BSP_GICC_SetEoiGrp0
+                0x00000000200248ac       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248ac                R_BSP_GICC_SetEoiGrp0
+ .text.R_BSP_GICC_SetEoiGrp1
+                0x00000000200248bc       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248bc                R_BSP_GICC_SetEoiGrp1
+ .text.R_BSP_GICC_Get_IntIdGrp0
+                0x00000000200248cc        0xc ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248cc                R_BSP_GICC_Get_IntIdGrp0
+ .text.R_BSP_GICC_Get_IntIdGrp1
+                0x00000000200248d8        0xc ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248d8                R_BSP_GICC_Get_IntIdGrp1
+ *fill*         0x00000000200248e4        0x4 
+ .text.bsp_irq_cfg
+                0x00000000200248e8       0x60 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00000000200248e8                bsp_irq_cfg
+ .text.IRQ_ExecuteHandler
+                0x0000000020024948       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000020024948                IRQ_ExecuteHandler
+ .text.FIQ_ExecuteHandler
+                0x0000000020024998       0xa8 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000020024998                FIQ_ExecuteHandler
+ .text          0x0000000020024a40      0x350 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+                0x0000000020024a40                R_BSP_CACHE_EnableInst
+                0x0000000020024a54                R_BSP_CACHE_EnableData
+                0x0000000020024a68                R_BSP_CACHE_DisableInst
+                0x0000000020024a7c                R_BSP_CACHE_DisableData
+                0x0000000020024a90                R_BSP_CACHE_CleanAll
+                0x0000000020024b24                R_BSP_CACHE_CleanInvalidateAll
+                0x0000000020024bb8                R_BSP_CACHE_InvalidateAll
+                0x0000000020024c4c                R_BSP_CACHE_CleanRange
+                0x0000000020024cac                R_BSP_CACHE_InvalidateRange
+                0x0000000020024d0c                R_BSP_CACHE_CleanInvalidateRange
+ .text.Default_Handler
+                0x0000000020024d90        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+                0x0000000020024d90                Default_Handler
+ .text.__enable_fiq
+                0x0000000020024d98        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024d98                __enable_fiq
+ .text.__enable_all_exception
+                0x0000000020024da0        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024da0                __enable_all_exception
+ .text.InitGicv3
+                0x0000000020024da8       0x6c ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024da8                InitGicv3
+ .text          0x0000000020024e14       0x10 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+                0x0000000020024e14                R_MMU_GetTranslationTableBaseAddress
+                0x0000000020024e1c                R_MMU_SetTranslationTableBaseAddress
+ *fill*         0x0000000020024e24        0x4 
+ .text.SystemInit
+                0x0000000020024e28       0x98 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000020024e28                SystemInit
+ .text.R_BSP_HardwareInit
+                0x0000000020024ec0        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000020024ec0                R_BSP_HardwareInit
+ .text.bsp_init
+                0x0000000020024ec4        0x4 ./rza/board/rza3ul_feather/board_init.o
+                0x0000000020024ec4                bsp_init
+ *fill*         0x0000000020024ec8       0x38 
+ .text          0x0000000020024f00      0x104 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+                0x0000000020024f00                memset
+ *fill*         0x0000000020025004        0x4 
+ .text.stub     0x0000000020025008       0x18 linker stubs
+ *(.rodata .rodata.*)
+ *fill*         0x0000000020025028        0x0 
+ .rodata._ZN24SerialCompatibilityLayer9fill_buffEv.str1.8
+                0x0000000020025028      0x140 ./src/hal_entry.o
+                                         0x55 (size before relaxing)
+ .rodata._ZN24SerialCompatibilityLayer10uart_printEPht.str1.8
+                0x0000000020025168       0x5b ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer9uart_initEPj.str1.8
+                0x0000000020025168       0x4b ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer7printlnEPh.str1.8
+                0x0000000020025168        0x2 ./src/hal_entry.o
+ .rodata.hal_entry.str1.8
+                0x0000000020025168       0x28 ./src/hal_entry.o
+ .rodata.g_mmu_pagetable_array
+                0x0000000020025168      0x120 ./src/mmu_page_table.o
+                0x0000000020025168                g_mmu_pagetable_array
+ .rodata.g_ioport_cfg_extend
+                0x0000000020025288       0x18 ./rza_gen/common_data.o
+                0x0000000020025288                g_ioport_cfg_extend
+ .rodata.g_mmu_cfg
+                0x00000000200252a0        0x0 ./rza_gen/common_data.o
+                0x00000000200252a0                g_mmu_cfg
+ .rodata.g_uart0_cfg
+                0x00000000200252a0       0x58 ./rza_gen/hal_data.o
+                0x00000000200252a0                g_uart0_cfg
+ .rodata.g_uart0_cfg_extend
+                0x00000000200252f8       0x38 ./rza_gen/hal_data.o
+                0x00000000200252f8                g_uart0_cfg_extend
+ .rodata.g_bsp_pin_cfg
+                0x0000000020025330       0x18 ./rza_gen/pin_data.o
+                0x0000000020025330                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x0000000020025348      0x120 ./rza_gen/pin_data.o
+                0x0000000020025348                g_bsp_pin_cfg_data
+ .rodata.r_scif_uart_make_rftc
+                0x0000000020025468        0xf ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *fill*         0x0000000020025477        0x1 
+ .rodata.g_div_coefficient
+                0x0000000020025478       0x12 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *fill*         0x000000002002548a        0x6 
+ .rodata.g_async_baud
+                0x0000000020025490        0x9 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x00000000200254a0                . = ALIGN (0x8)
+ *fill*         0x0000000020025499        0x7 
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x00000000200254a0                . = ALIGN (0x8)
+                0x00000000200254a0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x00000000200254a0        0x8 ./src/hal_entry.o
+                0x00000000200254a8                PROVIDE (__init_array_end = .)
+                0x00000000200254a8                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.iplt           0x00000000200254a8        0x0
+ .iplt          0x00000000200254a8        0x0 ./src/hal_entry.o
+
+.rela.dyn       0x00000000200254a8        0x0
+ .rela.iplt     0x00000000200254a8        0x0 ./src/hal_entry.o
+ .rela.rodata.BTBL
+                0x00000000200254a8        0x0 ./src/hal_entry.o
+ .rela.rodata.DTBL
+                0x00000000200254a8        0x0 ./src/hal_entry.o
+ .rela.text.R_MMU_Open
+                0x00000000200254a8        0x0 ./src/hal_entry.o
+ .relaRESET_HANDLER
+                0x00000000200254a8        0x0 ./src/hal_entry.o
+ .rela.text.SystemInit
+                0x00000000200254a8        0x0 ./src/hal_entry.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000000200254a8        0x0
+                0x00000000200254a8                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000000200254a8                __exidx_end = .
+
+.data           0x00000000281fffc0     0x1858 load address 0x00000000200254c0
+                0x00000000281fffc0                __data_exec_start = .
+                0x00000000200254c0                __data_load_start = (LOADADDR (.data) + (. - ADDR (.data)))
+ *(.data .data.*)
+ .data.g_uart0_baud_setting
+                0x00000000281fffc0        0x3 ./rza_gen/hal_data.o
+                0x00000000281fffc0                g_uart0_baud_setting
+ *fill*         0x00000000281fffc3        0x5 
+ .data.g_int_sense_array
+                0x00000000281fffc8      0x800 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+                0x00000000281fffc8                g_int_sense_array
+ .data.g_clock_freq
+                0x00000000282007c8       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ *(.application_vectors)
+ .application_vectors
+                0x0000000028200818     0x1000 ./rza_gen/vector_data.o
+                0x0000000028200818                g_vector_table
+                0x0000000028201818                . = ALIGN (0x8)
+                0x0000000020026d18                __data_load_end = (LOADADDR (.data) + (. - ADDR (.data)))
+
+.igot.plt       0x0000000028201818        0x0 load address 0x0000000020026d18
+ .igot.plt      0x0000000028201818        0x0 ./src/hal_entry.o
+
+.bss            0x0000000028201820        0x0 load address 0x0000000020026d20
+                0x0000000028201820                __bss_start = .
+                0x0000000028201820                . = ALIGN (0x8)
+                0x0000000028201820                __bss_end = .
+
+.stack          0x0000000028201820     0x2000 load address 0x0000000020026d20
+                0x0000000028201820                __stack_start = .
+                0x0000000028203820                . = (. + 0x2000)
+ *fill*         0x0000000028201820     0x2000 
+                0x0000000028203820                . = ALIGN (0x10)
+                0x0000000028203820                __stack_end = .
+
+.bss2           0x0000000028203820     0x16e0 load address 0x0000000020026d20
+                0x0000000028203820                __bss2_start = .
+ *(.bss .bss.*)
+ .bss.Serial    0x0000000028203820      0x406 ./src/hal_entry.o
+                0x0000000028203820                Serial
+ .bss._ZL21g_out_of_band_index_0
+                0x0000000028203c26        0x2 ./src/hal_entry.o
+ .bss._ZL20g_receive_complete_0
+                0x0000000028203c28        0x4 ./src/hal_entry.o
+ .bss._ZL21g_transfer_complete_0
+                0x0000000028203c2c        0x4 ./src/hal_entry.o
+ .bss.g_out_of_band_received_0
+                0x0000000028203c30      0x200 ./src/hal_entry.o
+                0x0000000028203c30                g_out_of_band_received_0
+ .bss._ZL14g_uart_event_0
+                0x0000000028203e30        0x1 ./src/hal_entry.o
+ *fill*         0x0000000028203e31        0x7 
+ .bss.g_ioport_ctrl
+                0x0000000028203e38       0x18 ./rza_gen/common_data.o
+                0x0000000028203e38                g_ioport_ctrl
+ .bss.g_single_port_cfg
+                0x0000000028203e50       0x14 ./rza_gen/common_data.o
+                0x0000000028203e50                g_single_port_cfg
+ *fill*         0x0000000028203e64        0x4 
+ .bss.g_port_group_input_cfg
+                0x0000000028203e68       0x10 ./rza_gen/common_data.o
+                0x0000000028203e68                g_port_group_input_cfg
+ .bss.g_port_group_output_cfg
+                0x0000000028203e78        0x8 ./rza_gen/common_data.o
+                0x0000000028203e78                g_port_group_output_cfg
+ .bss.g_mmu_ctrl
+                0x0000000028203e80       0x10 ./rza_gen/common_data.o
+                0x0000000028203e80                g_mmu_ctrl
+ .bss.g_uart0_ctrl
+                0x0000000028203e90       0x58 ./rza_gen/hal_data.o
+                0x0000000028203e90                g_uart0_ctrl
+ .bss.g_protect_pfswe_counter
+                0x0000000028203ee8        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+                0x0000000028203ee8                g_protect_pfswe_counter
+ .bss.route     0x0000000028203eec        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss.g_interrupt_nesting_count
+                0x0000000028203ef0        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000028203ef0                g_interrupt_nesting_count
+ *fill*         0x0000000028203ef4        0x4 
+ .bss.gp_renesas_isr_context
+                0x0000000028203ef8     0x1000 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000028203ef8                gp_renesas_isr_context
+ .bss.SystemCoreClock
+                0x0000000028204ef8        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000028204ef8                SystemCoreClock
+ *(COMMON)
+                0x0000000028204f00                . = ALIGN (0x8)
+ *fill*         0x0000000028204efc        0x4 
+                0x0000000028204f00                __bss2_end = .
+
+.heap           0x0000000028204f00     0x2000 load address 0x0000000020026d20
+                0x0000000028204f00                end = .
+                0x0000000028204f00                __HeapBase = .
+                0x0000000028206f00                . = (. + 0x2000)
+ *fill*         0x0000000028204f00     0x2000 
+                0x0000000028206f00                __HeapLimit = .
+                0x0000000028206f00                _cached_end = .
+
+.bss.uncached_RAM
+                0x0000000038000000   0x206f00
+                0x0000000038206f00                . = (UNCACHEDRAM_S_START + (_cached_end - OCTA_RAM_START))
+ *fill*         0x0000000038000000   0x206f00 
+                0x0000000038206f00                __uncached_RAM_start = .
+ *(UNCACHED_BSS)
+                0x0000000038206f00                . = ALIGN (0x8)
+                0x0000000038206f00                __uncached_RAM_end = .
+
+.uncached_RAM_USB
+                0x0000000038206f00        0x0
+                0x0000000038206f00                __uncached_RAM_USB_start = .
+ *(.uncached_RAM_USB*)
+                0x0000000038206f00                __uncached_RAM_USB_end = .
+                0x0000000038206f00                __top_of_ram = .
+OUTPUT(RZA3UL_Feather_ExtRAM.elf elf64-littleaarch64)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x6fcd3
+ .debug_info    0x0000000000000000     0x345c ./src/hal_entry.o
+ .debug_info    0x000000000000345c      0x8b3 ./src/mmu_page_table.o
+ .debug_info    0x0000000000003d0f      0x20b ./src/sections.o
+ .debug_info    0x0000000000003f1a     0x14ae ./rza_gen/common_data.o
+ .debug_info    0x00000000000053c8     0x274b ./rza_gen/hal_data.o
+ .debug_info    0x0000000000007b13       0xac ./rza_gen/main.o
+ .debug_info    0x0000000000007bbf      0x8eb ./rza_gen/pin_data.o
+ .debug_info    0x00000000000084aa      0x8ae ./rza_gen/vector_data.o
+ .debug_info    0x0000000000008d58     0xa651 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_info    0x00000000000133a9      0xef6 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_info    0x000000000001429f     0xfaee ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x0000000000023d8d     0x5e83 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_info    0x0000000000029c10       0xc2 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_info    0x0000000000029cd2     0x5a74 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x000000000002f746      0x92b ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x0000000000030071      0x1b1 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x0000000000030222    0x3e948 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_info    0x000000000006eb6a       0xa8 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x000000000006ec12      0xb7c ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x000000000006f78e       0x29 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_info    0x000000000006f7b7       0x92 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_info    0x000000000006f849       0x29 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_info    0x000000000006f872       0x23 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_info    0x000000000006f895       0x29 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_info    0x000000000006f8be       0x28 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_info    0x000000000006f8e6       0x28 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_info    0x000000000006f90e       0x29 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x000000000006f937      0x295 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_info    0x000000000006fbcc       0x29 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_info    0x000000000006fbf5       0xa3 ./rza/board/rza3ul_feather/board_init.o
+ .debug_info    0x000000000006fc98       0x3b C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.debug_abbrev   0x0000000000000000     0x2a10
+ .debug_abbrev  0x0000000000000000      0x4b7 ./src/hal_entry.o
+ .debug_abbrev  0x00000000000004b7      0x152 ./src/mmu_page_table.o
+ .debug_abbrev  0x0000000000000609       0xb6 ./src/sections.o
+ .debug_abbrev  0x00000000000006bf      0x18f ./rza_gen/common_data.o
+ .debug_abbrev  0x000000000000084e      0x22e ./rza_gen/hal_data.o
+ .debug_abbrev  0x0000000000000a7c       0x61 ./rza_gen/main.o
+ .debug_abbrev  0x0000000000000add      0x11f ./rza_gen/pin_data.o
+ .debug_abbrev  0x0000000000000bfc       0xd4 ./rza_gen/vector_data.o
+ .debug_abbrev  0x0000000000000cd0      0x5c6 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_abbrev  0x0000000000001296      0x28c ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_abbrev  0x0000000000001522      0x442 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x0000000000001964      0x205 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_abbrev  0x0000000000001b69       0x85 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_abbrev  0x0000000000001bee      0x2eb ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x0000000000001ed9      0x175 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x000000000000204e       0xe3 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x0000000000002131      0x38f ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_abbrev  0x00000000000024c0       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x000000000000251e      0x1ee ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x000000000000270c       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_abbrev  0x0000000000002720       0x43 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_abbrev  0x0000000000002763       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_abbrev  0x0000000000002777       0x12 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_abbrev  0x0000000000002789       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_abbrev  0x000000000000279d       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_abbrev  0x00000000000027b1       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_abbrev  0x00000000000027c5       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x00000000000027d9      0x1a0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_abbrev  0x0000000000002979       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_abbrev  0x000000000000298d       0x5b ./rza/board/rza3ul_feather/board_init.o
+ .debug_abbrev  0x00000000000029e8       0x28 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.debug_loclists
+                0x0000000000000000     0x3fe4
+ .debug_loclists
+                0x0000000000000000      0x69d ./src/hal_entry.o
+ .debug_loclists
+                0x000000000000069d       0xc8 ./src/mmu_page_table.o
+ .debug_loclists
+                0x0000000000000765     0x11f9 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_loclists
+                0x000000000000195e      0x379 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_loclists
+                0x0000000000001cd7      0xc31 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_loclists
+                0x0000000000002908      0x3eb ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_loclists
+                0x0000000000002cf3      0x3c0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loclists
+                0x00000000000030b3       0x27 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loclists
+                0x00000000000030da      0x13f ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loclists
+                0x0000000000003219      0xcfd ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_loclists
+                0x0000000000003f16       0xa9 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loclists
+                0x0000000000003fbf       0x25 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_aranges  0x0000000000000000      0xdc0
+ .debug_aranges
+                0x0000000000000000      0x160 ./src/hal_entry.o
+ .debug_aranges
+                0x0000000000000160       0x40 ./src/mmu_page_table.o
+ .debug_aranges
+                0x00000000000001a0       0x20 ./src/sections.o
+ .debug_aranges
+                0x00000000000001c0       0x30 ./rza_gen/common_data.o
+ .debug_aranges
+                0x00000000000001f0       0x30 ./rza_gen/hal_data.o
+ .debug_aranges
+                0x0000000000000220       0x30 ./rza_gen/main.o
+ .debug_aranges
+                0x0000000000000250       0x20 ./rza_gen/pin_data.o
+ .debug_aranges
+                0x0000000000000270       0x20 ./rza_gen/vector_data.o
+ .debug_aranges
+                0x0000000000000290      0x1d0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_aranges
+                0x0000000000000460       0x90 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_aranges
+                0x00000000000004f0      0x1a0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x0000000000000690       0x30 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_aranges
+                0x00000000000006c0       0x20 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_aranges
+                0x00000000000006e0       0x90 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x0000000000000770       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x00000000000007c0       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x00000000000007f0      0x2a0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_aranges
+                0x0000000000000a90       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x0000000000000ab0       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x0000000000000b00       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_aranges
+                0x0000000000000b30       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_aranges
+                0x0000000000000b60       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_aranges
+                0x0000000000000b90       0x90 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_aranges
+                0x0000000000000c20       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_aranges
+                0x0000000000000c50       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_aranges
+                0x0000000000000c80       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_aranges
+                0x0000000000000cb0       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x0000000000000ce0       0x50 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_aranges
+                0x0000000000000d30       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_aranges
+                0x0000000000000d60       0x30 ./rza/board/rza3ul_feather/board_init.o
+ .debug_aranges
+                0x0000000000000d90       0x30 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.debug_rnglists
+                0x0000000000000000      0x819
+ .debug_rnglists
+                0x0000000000000000      0x13f ./src/hal_entry.o
+ .debug_rnglists
+                0x000000000000013f       0x21 ./src/mmu_page_table.o
+ .debug_rnglists
+                0x0000000000000160       0x17 ./rza_gen/common_data.o
+ .debug_rnglists
+                0x0000000000000177       0x17 ./rza_gen/hal_data.o
+ .debug_rnglists
+                0x000000000000018e       0x17 ./rza_gen/main.o
+ .debug_rnglists
+                0x00000000000001a5      0x1af ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_rnglists
+                0x0000000000000354       0x67 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_rnglists
+                0x00000000000003bb      0x100 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_rnglists
+                0x00000000000004bb       0x18 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_rnglists
+                0x00000000000004d3       0x8d ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_rnglists
+                0x0000000000000560       0x2b ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_rnglists
+                0x000000000000058b       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_rnglists
+                0x00000000000005a3      0x19d ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_rnglists
+                0x0000000000000740       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_rnglists
+                0x000000000000076c       0x17 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_rnglists
+                0x0000000000000783       0x53 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_rnglists
+                0x00000000000007d6       0x2c ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_rnglists
+                0x0000000000000802       0x17 ./rza/board/rza3ul_feather/board_init.o
+
+.debug_line     0x0000000000000000     0x4af0
+ .debug_line    0x0000000000000000      0x75e ./src/hal_entry.o
+ .debug_line    0x000000000000075e      0x10e ./src/mmu_page_table.o
+ .debug_line    0x000000000000086c       0x4c ./src/sections.o
+ .debug_line    0x00000000000008b8       0x9e ./rza_gen/common_data.o
+ .debug_line    0x0000000000000956       0xae ./rza_gen/hal_data.o
+ .debug_line    0x0000000000000a04       0x5a ./rza_gen/main.o
+ .debug_line    0x0000000000000a5e       0x67 ./rza_gen/pin_data.o
+ .debug_line    0x0000000000000ac5       0x55 ./rza_gen/vector_data.o
+ .debug_line    0x0000000000000b1a     0x123b ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_line    0x0000000000001d55      0x3a8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_line    0x00000000000020fd      0x79c ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x0000000000002899      0x684 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_line    0x0000000000002f1d       0x48 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_line    0x0000000000002f65      0x88d ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x00000000000037f2       0xc8 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x00000000000038ba       0xfc ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x00000000000039b6      0x869 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_line    0x000000000000421f       0x55 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x0000000000004274      0x171 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x00000000000043e5      0x134 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_line    0x0000000000004519       0x56 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_line    0x000000000000456f       0x88 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_line    0x00000000000045f7       0xe5 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_line    0x00000000000046dc       0x8d ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_line    0x0000000000004769       0x52 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_line    0x00000000000047bb       0x4d ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_line    0x0000000000004808       0x7f ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x0000000000004887      0x112 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_line    0x0000000000004999       0x75 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_line    0x0000000000004a0e       0x56 ./rza/board/rza3ul_feather/board_init.o
+ .debug_line    0x0000000000004a64       0x8c C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.debug_str      0x0000000000000000    0x1d226
+ .debug_str     0x0000000000000000    0x1d226 ./src/hal_entry.o
+                                       0x4a24 (size before relaxing)
+ .debug_str     0x000000000001d226     0x1aa4 ./src/mmu_page_table.o
+ .debug_str     0x000000000001d226      0x267 ./src/sections.o
+ .debug_str     0x000000000001d226     0x2d10 ./rza_gen/common_data.o
+ .debug_str     0x000000000001d226     0x4ac2 ./rza_gen/hal_data.o
+ .debug_str     0x000000000001d226      0x16c ./rza_gen/main.o
+ .debug_str     0x000000000001d226     0x1565 ./rza_gen/pin_data.o
+ .debug_str     0x000000000001d226     0x1644 ./rza_gen/vector_data.o
+ .debug_str     0x000000000001d226     0x7c51 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_str     0x000000000001d226     0x1d91 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_str     0x000000000001d226     0x63ea ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_str     0x000000000001d226     0x262e ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_str     0x000000000001d226      0x1b1 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_str     0x000000000001d226     0x28e3 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_str     0x000000000001d226     0x1b0c ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_str     0x000000000001d226      0x27d ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_str     0x000000000001d226    0x10a3e ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_str     0x000000000001d226      0x189 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_str     0x000000000001d226     0x1823 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_str     0x000000000001d226       0x96 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_str     0x000000000001d226      0x16d ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_str     0x000000000001d226       0x99 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_str     0x000000000001d226       0x94 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_str     0x000000000001d226       0x9f ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_str     0x000000000001d226       0x94 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_str     0x000000000001d226       0x9e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_str     0x000000000001d226       0x98 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_str     0x000000000001d226      0x2cc ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_str     0x000000000001d226       0x9d ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_str     0x000000000001d226      0x16d ./rza/board/rza3ul_feather/board_init.o
+ .debug_str     0x000000000001d226       0xeb C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.debug_line_str
+                0x0000000000000000      0xcfb
+ .debug_line_str
+                0x0000000000000000      0xcfb ./src/hal_entry.o
+                                        0x691 (size before relaxing)
+ .debug_line_str
+                0x0000000000000cfb      0x28b ./src/mmu_page_table.o
+ .debug_line_str
+                0x0000000000000cfb      0x1ae ./src/sections.o
+ .debug_line_str
+                0x0000000000000cfb      0x3ee ./rza_gen/common_data.o
+ .debug_line_str
+                0x0000000000000cfb      0x485 ./rza_gen/hal_data.o
+ .debug_line_str
+                0x0000000000000cfb       0xd4 ./rza_gen/main.o
+ .debug_line_str
+                0x0000000000000cfb      0x2f2 ./rza_gen/pin_data.o
+ .debug_line_str
+                0x0000000000000cfb      0x212 ./rza_gen/vector_data.o
+ .debug_line_str
+                0x0000000000000cfb      0x4d7 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_line_str
+                0x0000000000000cfb      0x2f3 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_line_str
+                0x0000000000000cfb      0x40e ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_line_str
+                0x0000000000000cfb      0x2f0 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_line_str
+                0x0000000000000cfb      0x181 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .debug_line_str
+                0x0000000000000cfb      0x365 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line_str
+                0x0000000000000cfb      0x2b6 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line_str
+                0x0000000000000cfb      0x2c5 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line_str
+                0x0000000000000cfb      0x2da ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_line_str
+                0x0000000000000cfb      0x23a ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line_str
+                0x0000000000000cfb      0x32d ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line_str
+                0x0000000000000cfb       0x88 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_line_str
+                0x0000000000000cfb      0x132 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_line_str
+                0x0000000000000cfb       0x8b ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_line_str
+                0x0000000000000cfb       0x86 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_line_str
+                0x0000000000000cfb       0x91 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_line_str
+                0x0000000000000cfb       0x86 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_line_str
+                0x0000000000000cfb       0x90 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_line_str
+                0x0000000000000cfb       0x8a ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line_str
+                0x0000000000000cfb      0x379 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_line_str
+                0x0000000000000cfb       0x8f ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_line_str
+                0x0000000000000cfb       0xfd ./rza/board/rza3ul_feather/board_init.o
+ .debug_line_str
+                0x0000000000000cfb       0xd6 C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/13.2 Rel1/bin/../lib/gcc/aarch64-none-elf/13.2.1\libg.a(libc_a-memset.o)
+
+.comment        0x0000000000000000       0x44
+ .comment       0x0000000000000000       0x44 ./src/hal_entry.o
+                                         0x45 (size before relaxing)
+ .comment       0x0000000000000044       0x45 ./src/mmu_page_table.o
+ .comment       0x0000000000000044       0x45 ./src/sections.o
+ .comment       0x0000000000000044       0x45 ./rza_gen/common_data.o
+ .comment       0x0000000000000044       0x45 ./rza_gen/hal_data.o
+ .comment       0x0000000000000044       0x45 ./rza_gen/main.o
+ .comment       0x0000000000000044       0x45 ./rza_gen/pin_data.o
+ .comment       0x0000000000000044       0x45 ./rza_gen/vector_data.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/r_mmu/r_mmu.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/r_ioport/r_ioport.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_irq_sense.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .comment       0x0000000000000044       0x45 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .comment       0x0000000000000044       0x45 ./rza/board/rza3ul_feather/board_init.o
+
+.debug_frame    0x0000000000000000     0x1390
+ .debug_frame   0x0000000000000000       0x40 ./src/mmu_page_table.o
+ .debug_frame   0x0000000000000040       0x28 ./rza_gen/common_data.o
+ .debug_frame   0x0000000000000068       0x38 ./rza_gen/hal_data.o
+ .debug_frame   0x00000000000000a0       0x38 ./rza_gen/main.o
+ .debug_frame   0x00000000000000d8      0x438 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_frame   0x0000000000000510      0x100 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_frame   0x0000000000000610      0x390 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x00000000000009a0       0x40 ./rza/fsp/src/bsp/mcu/rza3ul/bsp_clocks_setup.o
+ .debug_frame   0x00000000000009e0       0xf0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x0000000000000ad0       0x58 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x0000000000000b28       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x0000000000000b60      0x580 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_frame   0x00000000000010e0       0x98 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x0000000000001178      0x118 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_frame   0x0000000000001290       0x28 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_frame   0x00000000000012b8       0x40 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_frame   0x00000000000012f8       0x70 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_frame   0x0000000000001368       0x28 ./rza/board/rza3ul_feather/board_init.o

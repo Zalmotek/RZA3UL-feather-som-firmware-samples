@@ -1,0 +1,43 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../rza_gen/common_data.c \
+../rza_gen/hal_data.c \
+../rza_gen/main.c \
+../rza_gen/pin_data.c \
+../rza_gen/vector_data.c 
+
+LST += \
+common_data.lst \
+hal_data.lst \
+main.lst \
+pin_data.lst \
+vector_data.lst 
+
+C_DEPS += \
+./rza_gen/common_data.d \
+./rza_gen/hal_data.d \
+./rza_gen/main.d \
+./rza_gen/pin_data.d \
+./rza_gen/vector_data.d 
+
+OBJS += \
+./rza_gen/common_data.o \
+./rza_gen/hal_data.o \
+./rza_gen/main.o \
+./rza_gen/pin_data.o \
+./rza_gen/vector_data.o 
+
+MAP += \
+RZA3UL_Feather_RPiCam_new.map 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+rza_gen/%.o: ../rza_gen/%.c
+	@echo 'Building file: $<'
+	$(file > $@.in,-mcpu=generic+simd -mcmodel=small -mcmodel=large -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-strict-aliasing -Wunused -Wuninitialized -Wall -Wextra -Wmissing-declarations -Wconversion -Wpointer-arith -Wshadow -Wlogical-op -Waggregate-return -Wfloat-equal -g -D_RENESAS_RZA_ -D_RZA_CORE=CA55_0 -D_RZA_ORDINAL=1 -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\src" -I"." -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza\\fsp\\inc" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza\\fsp\\inc\\api" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza\\fsp\\inc\\instances" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza\\fsp\\src\\bsp\\mcu\\rza3ul" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza_gen" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza_cfg\\fsp_cfg\\bsp" -I"C:\\Users\\nicul\\e2_studio\\workspace\\RZ_Feather\\RZA3UL_Feather_RPiCam_new\\rza_cfg\\fsp_cfg" -std=c99 -Wno-format-truncation -Wno-stringop-overflow --param=min-pagesize=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -c -o "$@" "$<")
+	@aarch64-none-elf-gcc @"$@.in"
+

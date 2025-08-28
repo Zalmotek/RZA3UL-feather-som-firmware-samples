@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/append=true
+environment/buildEnvironmentInclude/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/appendContributed=true
+environment/buildEnvironmentLibrary/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/append=true
+environment/buildEnvironmentLibrary/com.renesas.cdt.managedbuild.gcc.rz.aarch64.none.configuration.debug.1622154658/appendContributed=true
